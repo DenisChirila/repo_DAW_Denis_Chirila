@@ -4,11 +4,11 @@
 
 Esto es un **párrafo** de markdown, es un "lenguaje" *muy sencillo* que se suele usar mucho en los README.md de los repositorios.
 
-"" bash
+´´bash
 git add miprimermd.md
 git commit -m "Creación del archivo downtown"
 git push
-""
+´´
 
 Esto es una lista ordenada:
 
